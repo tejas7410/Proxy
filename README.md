@@ -35,7 +35,7 @@ node index.js
 
 The backend will run at: http://localhost:3000
 
-###3️⃣ Setup Frontend (React + Vite)
+### 3️⃣ Setup Frontend (React + Vite)
 
 ```bash
 cd frontend
