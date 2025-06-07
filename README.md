@@ -16,22 +16,6 @@ A full-stack jokes application built with **React + Vite** on the frontend and *
 
 </div>
 
----
-
-## 📂 Project Structure
-
-jokes-app/
-├── backend/ # Express server
-│ └── index.js
-├── frontend/ # React + Vite app
-│ ├── src/
-│ │ └── App.jsx
-│ ├── public/
-│ └── vite.config.js
-├── README.md
-
----
-
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the repository
